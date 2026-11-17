@@ -1,0 +1,42 @@
+﻿key,section,title,url,image,source_url
+CISCO-01,cisco,Getting Started with Cisco Packet Tracer,pdf/Cisco_NetAcad/01_Getting_Started_with_Cisco_Packet_Tracer.pdf,images/Cisco_NetAcad/Screenshot_33.png,https://www.netacad.com/certificates/?issuanceId=3af7a72d-e632-4562-83af-8a71862b88f7
+CISCO-02,cisco,Introduction to Cybersecurity,pdf/Cisco_NetAcad/02_Introduction_to_Cybersecurity.pdf,images/Cisco_NetAcad/Screenshot_34.png,https://www.netacad.com/certificates/?issuanceId=263671e5-e13a-408b-b84a-1987af23766e
+CISCO-03,cisco,Exploring Internet of Things with Cisco Packet Tracer,pdf/Cisco_NetAcad/03_Exploring_Internet_of_Things_with_Cisco_Packet_Tracer.pdf,images/Cisco_NetAcad/Screenshot_31.png,https://www.netacad.com/certificates/?issuanceId=debf6df9-1a4c-4886-9604-d70ca7fa32d1
+CISCO-04,cisco,Endpoint Security,pdf/Cisco_NetAcad/04_Endpoint_Security.pdf,images/Cisco_NetAcad/Screenshot_29.png,https://www.netacad.com/certificates/?issuanceId=12d4c70d-5b5a-423a-8f5e-996ebbb226f8
+CISCO-05,cisco,Cyber Threat Management,pdf/Cisco_NetAcad/05_Cyber_Threat_Management.pdf,images/Cisco_NetAcad/Screenshot_28.png,https://www.netacad.com/certificates/?issuanceId=cef88b23-d088-46a1-8dd6-992ab6b3239e
+CISCO-06,cisco,Network Defense,pdf/Cisco_NetAcad/06_Network_Defense.pdf,images/Cisco_NetAcad/Screenshot_37.png,https://www.netacad.com/certificates/?issuanceId=2b808849-9cd5-4b7a-8e49-6088f4e1e9af
+CISCO-07,cisco,Exploring Networking with Cisco Packet Tracer,pdf/Cisco_NetAcad/07_Exploring_Networking_with_Cisco_Packet_Tracer.pdf,images/Cisco_NetAcad/Screenshot_32.png,https://www.netacad.com/certificates/?issuanceId=5aa3faee-eb5d-4b5a-ac2c-c948458cf13b
+CISCO-08,cisco,Computer Hardware Basics,pdf/Cisco_NetAcad/08_Computer_Hardware_Basics.pdf,images/Cisco_NetAcad/Screenshot_27.png,https://www.netacad.com/certificates/?issuanceId=7fccc700-5149-4ece-a831-ff910bb0808c
+CISCO-09,cisco,Networking Basics,pdf/Cisco_NetAcad/09_Networking_Basics.pdf,images/Cisco_NetAcad/Screenshot_39.png,https://www.netacad.com/certificates/?issuanceId=5c6e3449-c663-4daf-b8f7-5aa92bf427b3
+CISCO-10,cisco,Networking Devices and Initial Configuration,pdf/Cisco_NetAcad/10_Networking_Devices_and_Initial_Configuration.pdf,images/Cisco_NetAcad/Screenshot_40.png,https://www.netacad.com/certificates/?issuanceId=c0d1b2df-c525-4bcb-8f9e-4720ee2ab772
+CISCO-11,cisco,Network Support and Security,pdf/Cisco_NetAcad/11_Network_Support_and_Security.pdf,images/Cisco_NetAcad/Screenshot_38.png,https://www.netacad.com/certificates/?issuanceId=63da5597-f01e-41be-bd0b-698116ae3fba
+CISCO-12,cisco,Operating Systems Basics,pdf/Cisco_NetAcad/12_Operating_Systems_Basics.pdf,images/Cisco_NetAcad/Screenshot_41.png,https://www.netacad.com/certificates/?issuanceId=0d0119fa-f8eb-48bc-b278-b04a4ee7b131
+CISCO-13,cisco,Network Addressing and Basic Troubleshooting,pdf/Cisco_NetAcad/13_Network_Addressing_and_Basic_Troubleshooting.pdf,images/Cisco_NetAcad/Screenshot_36.png,https://www.netacad.com/certificates/?issuanceId=e1b2b51b-e83a-447a-8a2e-997fc31e5f52
+CISCO-14,cisco,Ethical Hacker,pdf/Cisco_NetAcad/14_Ethical_Hacker.pdf,images/Cisco_NetAcad/Screenshot_30.png,https://www.netacad.com/certificates/?issuanceId=a1f172d9-97f4-4e1c-97c2-f33c13a98f19
+CISCO-15,cisco,Introduction to IoT and Digital Transformation,pdf/Cisco_NetAcad/15_Introduction_to_IoT_and_Digital_Transformation.pdf,images/Cisco_NetAcad/Screenshot_35.png,https://www.netacad.com/certificates/?issuanceId=9a33e89c-deab-4387-913a-5bce7ea4b9c0
+ACADEMY-01,academy,Setting Up,https://academy.hackthebox.com/achievement/1741726/87,images/HTB_Academy/Screenshot_21.png,
+ACADEMY-02,academy,Linux Fundamentals,https://academy.hackthebox.com/achievement/1741726/18,images/HTB_Academy/Screenshot_22.png,
+ACADEMY-03,academy,Windows Fundamentals,https://academy.hackthebox.com/achievement/1741726/49,images/HTB_Academy/Screenshot_23.png,
+ACADEMY-04,academy,MacOS Fundamentals,https://academy.hackthebox.com/achievement/1741726/157,images/HTB_Academy/Screenshot_24.png,
+ACADEMY-05,academy,Intro to Network Traffic Analysis,https://academy.hackthebox.com/achievement/1741726/34,images/HTB_Academy/Screenshot_25.png,
+ACADEMY-06,academy,Introduction to Networking,https://academy.hackthebox.com/achievement/1741726/81,images/HTB_Academy/Screenshot_26.png,
+MACHINE-01,machines,HTB Machine 01,https://labs.hackthebox.com/achievement/machine/2242988/1012,images/HTB_Machines/Screenshot_11.png,
+MACHINE-02,machines,HTB Machine 02,https://labs.hackthebox.com/achievement/machine/2242988/999,images/HTB_Machines/Screenshot_12.png,
+MACHINE-03,machines,HTB Machine 03,https://labs.hackthebox.com/achievement/machine/2242988/990,images/HTB_Machines/Screenshot_13.png,
+MACHINE-04,machines,HTB Machine 04,https://labs.hackthebox.com/achievement/machine/2242988/987,images/HTB_Machines/Screenshot_14.png,
+MACHINE-05,machines,HTB Machine 05,https://labs.hackthebox.com/achievement/machine/2242988/984,images/HTB_Machines/Screenshot_15.png,
+MACHINE-06,machines,HTB Machine 06,https://labs.hackthebox.com/achievement/machine/2242988/981,images/HTB_Machines/Screenshot_16.png,
+MACHINE-07,machines,HTB Machine 07,https://labs.hackthebox.com/achievement/machine/2242988/933,images/HTB_Machines/Screenshot_17.png,
+MACHINE-08,machines,HTB Machine 08,https://labs.hackthebox.com/achievement/machine/2242988/921,images/HTB_Machines/Screenshot_18.png,
+MACHINE-09,machines,HTB Machine 09,https://labs.hackthebox.com/achievement/machine/2242988/906,images/HTB_Machines/Screenshot_19.png,
+MACHINE-10,machines,HTB Machine 10,https://labs.hackthebox.com/achievement/machine/2242988/915,images/HTB_Machines/Screenshot_20.png,
+CHALLENGE-01,challenges,HTB Challenge 01,https://labs.hackthebox.com/achievement/challenge/2242988/1180,images/HTB_Challenges/Screenshot_01.png,
+CHALLENGE-02,challenges,HTB Challenge 02,https://labs.hackthebox.com/achievement/challenge/2242988/302,images/HTB_Challenges/Screenshot_02.png,
+CHALLENGE-03,challenges,HTB Challenge 03,https://labs.hackthebox.com/achievement/challenge/2242988/1851,images/HTB_Challenges/Screenshot_03.png,
+CHALLENGE-04,challenges,HTB Challenge 04,https://labs.hackthebox.com/achievement/challenge/2242988/1293,images/HTB_Challenges/Screenshot_04.png,
+CHALLENGE-05,challenges,HTB Challenge 05,https://labs.hackthebox.com/achievement/challenge/2242988/952,images/HTB_Challenges/Screenshot_05.png,
+CHALLENGE-06,challenges,HTB Challenge 06,https://labs.hackthebox.com/achievement/challenge/2242988/883,images/HTB_Challenges/Screenshot_06.png,
+CHALLENGE-07,challenges,HTB Challenge 07,https://labs.hackthebox.com/achievement/challenge/2242988/769,images/HTB_Challenges/Screenshot_07.png,
+CHALLENGE-08,challenges,HTB Challenge 08,https://labs.hackthebox.com/achievement/challenge/2242988/305,images/HTB_Challenges/Screenshot_08.png,
+CHALLENGE-09,challenges,HTB Challenge 09,https://labs.hackthebox.com/achievement/challenge/2242988/397,images/HTB_Challenges/Screenshot_09.png,
+CHALLENGE-10,challenges,HTB Challenge 10,https://labs.hackthebox.com/achievement/challenge/2242988/122,images/HTB_Challenges/Screenshot_10.png,

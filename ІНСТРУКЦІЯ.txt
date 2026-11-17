@@ -1,0 +1,12 @@
+САЙТ «СЕРТИФІКАЦІЯ» — для GitHub Pages
+
+1. Розпакуйте цей ZIP на комп’ютері.
+2. Створіть публічний репозиторій на https://github.com/new з назвою sertyfikatsiia.
+3. На вкладці Code виберіть Add file -> Upload files.
+4. Перетягніть у вікно ВСІ ФАЙЛИ ТА ПАПКИ з розпакованого ZIP (не сам ZIP і не зовнішню папку).
+5. Натисніть Commit changes.
+6. Settings -> Pages -> Build and deployment -> Source: Deploy from a branch -> Branch: main, Folder: /(root) -> Save.
+7. URL: https://ВАШ-ЛОГІН.github.io/sertyfikatsiia/
+
+Зображення, PDF та HTML повинні бути збережені з тією самою структурою підпапок.
+УВАГА: опубліковані GitHub Pages та PDF-файли стануть публічними. Перевірте особисті дані на сертифікатах перед завантаженням.
